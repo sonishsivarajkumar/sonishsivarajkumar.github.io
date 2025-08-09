@@ -1,58 +1,119 @@
-# Sonish Sivarajkumar - Research Scientist Portfolio
+# Sonish Sivarajkumar - Portfolio Website
 
-[![Deploy site](https://github.com/sonishsivarajkumar/sonishsivarajkumar.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/sonishsivarajkumar/sonishsivarajkumar.github.io/actions/workflows/deploy.yml)
+This is the professional portfolio website for Sonish Sivarajkumar, Research Scientist at Eli Lilly & Co specializing in Deep Learning, Generative AI, and Agentic AI, with a completed PhD in Intelligent Systems from University of Pittsburgh.
 
-Welcome to my research portfolio! I'm a Research Scientist specializing in Generative AI at Eli Lilly and Company, with expertise in clinical NLP, drug discovery AI, and healthcare applications.
+## About
 
-## 🎯 About
+Sonish Sivarajkumar is a Research Scientist with 5+ years of experience designing and delivering AI/ML systems across pharma, biotech, and academic research. He specializes in generative AI for drug discovery, AI agents for clinical trials, and real-world evidence analytics using Electronic Health Records.
 
-This portfolio showcases my research work at the intersection of artificial intelligence and healthcare, with a focus on:
+## Current Position
 
-- **Generative AI in Drug Discovery**: AI-driven antibody discovery and protein chemistry
-- **Clinical NLP**: Natural language processing for healthcare applications
-- **AI Agents**: Intelligent systems for clinical trial optimization
-- **Real-World Evidence**: Analytics for pharmaceutical research
+**Research Scientist (Advisor) - Generative AI** at Eli Lilly & Co
+- Architecting end-to-end Generative AI solutions for immunology and protein chemistry
+- Building AI Agents to optimize clinical trial adjudication processes
+- Leading to 25% reduction in research timelines through AI integration
 
-## 📚 Publications
+## Research Areas
 
-My research has been published in top-tier journals and conferences including:
-- NPJ Digital Medicine
-- JMIR Medical Informatics
-- Journal of the American Medical Informatics Association
-- AMIA Annual Symposium
+- Deep Learning & Generative AI
+- Agentic AI for Clinical Applications
+- Natural Language Processing
+- Clinical NLP & Biomedical Informatics
+- Large Language Models (GPT-4, LLAMA, Mixtral)
+- Information Retrieval & Extraction
+- Electronic Health Records Analysis
+- Real World Evidence
+- Protein Chemistry & Sequence Analysis
 
-View all publications on the [Publications page](https://sonishsivarajkumar.github.io/publications/).
+## Publications Highlights
 
-## 🛠 Technical Stack
+**20+ peer-reviewed publications** with **400+ citations** including:
 
-This portfolio is built with:
-- **Jekyll**: Static site generator
-- **GitHub Pages**: Hosting and deployment
-- **BibTeX**: Publication management
-- **GitHub Actions**: Automated builds and deployment
+### High-Impact Journal Articles (11)
+- **NPJ Digital Medicine** (2 papers, 112+ citations)
+- **Journal of Clinical Oncology**
+- **Journal of the American Medical Informatics Association**
+- **JMIR Medical Informatics** (3 papers, 140+ citations)
+- **Journal of Healthcare Informatics Research** (29 citations)
+- **Journal of Biomedical Informatics** (10 citations)
+- **Advances in Nutrition** (9 citations)
+- **Cells** (87 citations)
 
-## 🚀 Local Development
+### Conference Publications (4)
+- **AMIA Annual Symposium** (88 citations)
+- **IEEE International Conference on Healthcare Informatics**
+- **JMIR AI** (20 citations)
 
-To run this site locally:
+### Preprints & Under Review (5)
+- Latest work on cardiovascular event adjudication using LLMs
+- Machine learning for post-stroke rehabilitation
+- Graph ML for transcription factor analysis
 
-```bash
-# Install dependencies
-bundle install
+## Professional Experience
 
-# Serve the site
-bundle exec jekyll serve --livereload
-```
+### Industry Experience
+- **Eli Lilly & Co** (2024-Present) - Research Scientist, Generative AI
+- **Merck & Co** (2023) - Data Scientist, Global Medical Affairs
+- **Genentech/Roche** (2022) - Research Scientist, Predictive Analytics
+- **IQVIA** (2020-2021) - Data Scientist, AI Center of Excellence
 
-The site will be available at `http://localhost:4000`.
+### Academic Experience
+- **UPMC Hillman Cancer Center** (2021-2025) - Research Scholar
+- **University of Pittsburgh** - PhD in Intelligent Systems (GPA: 3.9/4.0)
 
-## 📄 License
+## Technical Stack
 
-This project is open source and available under the [MIT License](LICENSE).
+- **Languages**: Python, R, Java, SQL
+- **AI/ML**: PyTorch, TensorFlow, Hugging Face, Scikit-learn
+- **LLMs**: GPT-4, LLAMA, Mixtral, BERT, BioBERT
+- **Cloud**: AWS, Azure, Databricks, Snowflake
+- **Tools**: Docker, Git, MLflow, Apache Airflow, PySpark
+
+## Features
+
+- Modern, responsive design optimized for all devices
+- Interactive publications section with filtering (20+ papers)
+- Comprehensive experience and skills showcase
+- Professional academic layout with citation metrics
+- GitHub Pages compatible
+- SEO optimized with structured data
+
+## Awards & Recognition
+
+- **School of Computing and Informatics Fellowship** (2021, 2022, 2023)
+- **US Cervical Cancer Analytics Award** (Merck, 2023)
+- **Breast and Gyn Oncology Analytics Award** (Merck, 2023)
+
+## Editorial & Review Activities
+
+### Journal Reviewer
+- BMC Medical Informatics and Decision Making
+- Journal of Medical Internet Research (JMIR)
+- Journal of Healthcare Informatics Research (JHIR)
+- Journal of American Medical Informatics Association (JAMIA)
+- Journal of Biomedical Informatics (JBI)
+- IEEE Journal of Biomedical and Health Informatics (JBHI)
+
+### Conference Reviewer
+- ACL, AMIA Informatics Summit, LREC, ICHI
+
+### Teaching
+- Teaching Assistant: Biomedical Informatics, University of Pittsburgh (Spring 2024)
+
+## Contact
+
+- **Email**: sonish.sivarajkumar@gmail.com
+- **Location**: Boston, MA
+- **LinkedIn**: [linkedin.com/in/sonish-sivarajkumar](https://www.linkedin.com/in/sonish-sivarajkumar/)
+- **Google Scholar**: [400+ citations](https://scholar.google.com/citations?hl=en&user=7bKK-AoAAAAJ)
+- **GitHub**: [github.com/sonishsivarajkumar](https://github.com/sonishsivarajkumar)
+- **Kaggle**: [kaggle.com/sonish2383](https://www.kaggle.com/sonish2383)
+
+## Deployment
+
+This site is automatically deployed using GitHub Pages. The website is live at:
+**https://sonishsivarajkumar.github.io**
 
 ---
 
-**Connect with me:**
-- [LinkedIn](https://linkedin.com/in/sonish-sivarajkumar)
-- [Google Scholar](https://scholar.google.com/citations?user=7bKK-AoAAAAJ)
-- [GitHub](https://github.com/sonishsivarajkumar)
-- Email: sonish.sivarajkumar@gmail.com
+*A comprehensive portfolio showcasing expertise in Deep Learning, Generative AI, and Agentic AI for biomedical applications.*
