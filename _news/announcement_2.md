@@ -6,17 +6,17 @@ inline: false
 related_posts: false
 ---
 
-I successfully defended my PhD dissertation titled "Clinical Natural Language Processing for Real-World Evidence Analytics" at the University of Pittsburgh. 
+Successfully defended my PhD dissertation titled "Clinical Natural Language Processing for Real-World Evidence Analytics" at the University of Pittsburgh! 🎓
 
 My research focused on developing advanced NLP techniques for extracting insights from clinical data to support pharmaceutical research and drug development. The work contributes to the growing field of AI applications in healthcare, with particular emphasis on real-world evidence generation and clinical decision support systems.
 
-Looking forward to applying these research insights in my new role at Eli Lilly and Company!
+Key contributions of my doctoral work include:
+- Novel zero-shot learning paradigms for clinical NLP (HealthPrompt)
+- Advanced prompting strategies for large language models in healthcare
+- Framework for human evaluation of LLMs in clinical applications
+- Methods for extracting sleep and rehabilitation information from clinical notes
 
----
-
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
+Looking forward to applying these research insights in my role at Eli Lilly and Company, where I'm building the next generation of AI solutions for drug discovery and clinical trials.
 
 <ul>
     <li>brunch</li>

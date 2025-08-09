@@ -1,89 +1,98 @@
 ---
 layout: page
+title: research
 permalink: /research/
-title: research experience
-description: Research experience and current work in Generative AI and Clinical NLP
+description: My research focuses on advancing AI applications in healthcare, with particular emphasis on drug discovery, clinical NLP, and pharmaceutical research.
 nav: true
-nav_order: 1
+nav_order: 2
 ---
 
-## Current Research
+## Research Overview
 
-### Research Scientist - Generative AI
-**Eli Lilly and Company** (2025 - Present)
-
-Leading cutting-edge research in **Generative AI for pharmaceutical applications**, with focus on:
-
-- **Antibody Discovery & Design**: Developing advanced generative AI models for therapeutic antibody discovery, optimizing efficacy and safety profiles through deep learning approaches
-- **Protein Chemistry AI**: Building AI systems for immunology and protein research, enabling better understanding of protein interactions, stability, and function
-- **Clinical Trial Statistics**: Implementing AI-driven statistical analysis tools for clinical trial optimization, improving trial design and outcome prediction
-- **AI Agents for Clinical Trials**: Creating sophisticated AI agents that optimize clinical trial adjudication processes, achieving significant improvements in accuracy and efficiency
-
-**Key Achievements:**
-- Collaborated with cross-functional teams to integrate AI technologies, achieving **25% reduction in research timelines**
-- Architected end-to-end Generative AI solutions for immunology and protein chemistry research
-- Enhanced research capabilities across the organization through strategic AI implementation
+My research sits at the intersection of artificial intelligence and healthcare, with a focus on developing practical AI solutions that can accelerate drug discovery and improve clinical outcomes. I specialize in creating end-to-end AI systems that bridge the gap between cutting-edge research and real-world pharmaceutical applications.
 
 ---
 
-### Research Scientist  
-**Eli Lilly and Company** (2024 - 2025)
+## Current Research Areas
 
-- Developed AI solutions for drug discovery and development processes
-- Led clinical NLP initiatives for pharmaceutical research applications
-- Built foundation models specifically designed for healthcare applications
-- Advanced real-world evidence analytics using cutting-edge AI techniques
+### 🧬 Generative AI in Drug Discovery
 
----
+I'm currently leading research initiatives in **Generative AI for antibody discovery and design** at Eli Lilly and Company. This work involves:
 
-### Graduate Research Assistant
-**University of Pittsburgh** (2020 - 2024)
+- **AI-driven antibody discovery**: Developing generative models that can design novel antibodies with desired properties
+- **Protein chemistry applications**: Creating AI systems that understand and manipulate protein structures for therapeutic purposes
+- **Immunology research**: Building AI tools to optimize immune response prediction and therapeutic design
+- **End-to-end AI solutions**: Architecting complete AI pipelines from molecular design through clinical validation
 
-**PhD Research Focus: Clinical Natural Language Processing**
+### 🤖 AI Agents for Clinical Trials
 
-- Specialized in Real-World Evidence analytics for pharmaceutical research
-- Developed AI solutions for healthcare applications with emphasis on clinical data processing
-- Conducted research on fairness and transparency in healthcare AI systems
-- Collaborated on pharmaceutical research applications and published findings in peer-reviewed venues
+A major focus of my current work involves building intelligent systems to optimize clinical trial processes:
 
-**Research Contributions:**
-- Advanced clinical NLP methodologies for pharmaceutical research
-- Developed novel approaches for real-world evidence extraction and analysis
-- Contributed to understanding of AI fairness and bias in healthcare applications
-- Published research findings in top-tier conferences and journals
+- **Clinical trial adjudication optimization**: Developing AI agents that can review and process clinical trial data more efficiently and accurately
+- **Automated clinical data processing**: Creating systems that can extract, process, and analyze clinical data at scale
+- **AI-powered trial management**: Building comprehensive AI systems that support various aspects of clinical trial operations
+- **Decision support systems**: Developing AI tools that assist clinicians and researchers in making data-driven decisions
 
----
+### 🏥 Clinical Natural Language Processing
 
-## Core Research Areas
+My doctoral research and ongoing work focuses on extracting insights from clinical text data:
 
-### Generative AI in Drug Discovery
-- AI-driven antibody discovery and design
-- Generative models for protein chemistry and immunology  
-- End-to-end AI solutions for pharmaceutical research
+- **Zero-shot learning paradigms**: Developing methods like HealthPrompt that can perform clinical NLP tasks without extensive labeled data
+- **Large language model applications**: Researching how to effectively apply and evaluate LLMs in healthcare settings
+- **Real-world evidence analytics**: Extracting valuable insights from clinical notes and electronic health records
+- **Information extraction**: Developing specialized NLP systems for extracting specific clinical information (sleep patterns, rehabilitation exercises, etc.)
 
-### AI Agents for Clinical Applications
-- Clinical trial adjudication optimization
-- Automated clinical data processing and analysis
-- AI-powered trial management systems
+### ⚖️ Healthcare AI Ethics and Fairness
 
-### Clinical Natural Language Processing
-- Real-world evidence analytics
-- Clinical data extraction and analysis
-- Healthcare AI fairness and transparency
+Understanding the importance of responsible AI in healthcare:
 
-### Applied Machine Learning in Healthcare
-- Production ML systems for biotech and pharma
-- Research translation from conception to deployment
-- Scalable AI solutions for pharmaceutical environments
+- **Health equity considerations**: Researching how AI systems can avoid exacerbating health disparities
+- **LLM evaluation frameworks**: Developing systematic approaches for evaluating AI systems in healthcare contexts
+- **Bias mitigation**: Working on methods to identify and reduce bias in healthcare AI applications
+- **Transparency and interpretability**: Ensuring AI systems in healthcare are explainable and trustworthy
 
 ---
 
-## Research Philosophy
+## Research Impact
 
-I am passionate about **bridging AI innovation and clinical impact**, focusing on translating cutting-edge AI research into practical, deployable solutions that address real-world pharmaceutical challenges. My work spans the entire drug discovery and development pipeline, from early-stage research through clinical trial optimization.
+### Publications and Citations
+- **100+ citations** for my work on LLM evaluation frameworks in healthcare
+- **126+ citations** for research on zero-shot clinical NLP approaches
+- **86+ citations** for HealthPrompt methodology
+- Recent publications in top venues including **NPJ Digital Medicine**, **JMIR Medical Informatics**, and **JAMIA**
 
-My approach emphasizes:
-- **Practical Impact**: Developing AI solutions that deliver measurable improvements in research timelines and outcomes
-- **Cross-functional Collaboration**: Working with diverse teams to integrate AI technologies effectively
-- **Research Excellence**: Maintaining high standards for research quality while focusing on real-world applications
-- **Innovation with Purpose**: Advancing AI technology specifically to improve healthcare outcomes
+### Industry Applications
+- **25% reduction in research timelines** through AI technology integration at Eli Lilly
+- Development of production AI systems currently deployed in pharmaceutical research environments
+- Cross-functional collaboration leading to practical AI solutions in drug discovery
+
+### Academic Contributions
+- Novel methodologies for clinical NLP published in leading journals
+- Framework development for responsible AI evaluation in healthcare
+- Contributions to the field of precision medicine through AI applications
+
+---
+
+## Future Directions
+
+### Short-term Goals (1-2 years)
+- Advancing generative AI applications in antibody discovery
+- Scaling AI agent systems for clinical trial optimization
+- Publishing research on novel AI approaches in pharmaceutical applications
+
+### Long-term Vision (3-5 years)
+- Establishing new paradigms for AI-driven drug discovery
+- Contributing to regulatory frameworks for AI in pharmaceutical research
+- Building bridges between academic research and industry applications in healthcare AI
+
+---
+
+## Collaboration Opportunities
+
+I'm always interested in collaborating on projects that involve:
+- **Generative AI applications** in healthcare and life sciences
+- **Clinical NLP** and real-world evidence generation
+- **AI ethics and fairness** in healthcare applications
+- **Industry-academia partnerships** in pharmaceutical AI research
+
+*Feel free to reach out if you're interested in discussing potential collaborations or if you'd like to learn more about any of these research areas.*
