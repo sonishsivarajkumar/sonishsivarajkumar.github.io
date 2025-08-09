@@ -2,7 +2,6 @@
 layout: page
 title: Clinical Trial AI Agents
 description: Building intelligent systems to optimize clinical trial adjudication and management
-img: assets/img/projects/clinical-ai-agents.jpg
 importance: 2
 category: industry
 ---

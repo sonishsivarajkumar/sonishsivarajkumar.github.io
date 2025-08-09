@@ -2,7 +2,6 @@
 layout: page
 title: HealthPrompt
 description: A zero-shot learning paradigm for clinical natural language processing
-img: assets/img/projects/healthprompt.jpg
 importance: 1
 category: research
 related_publications: true

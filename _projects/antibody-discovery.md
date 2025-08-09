@@ -2,7 +2,6 @@
 layout: page
 title: Generative AI for Antibody Discovery
 description: End-to-end AI solutions for immunology and protein chemistry at Eli Lilly
-img: assets/img/projects/antibody-ai.jpg
 importance: 1
 category: industry
 ---
