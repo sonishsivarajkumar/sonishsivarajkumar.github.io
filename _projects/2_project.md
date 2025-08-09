@@ -1,22 +1,21 @@
 ---
 layout: page
-title: Agentic AI for Healthcare
-description: Autonomous AI systems for clinical decision support and pharmaceutical research
+title: AI Agents for Clinical Trial Optimization
+description: Intelligent systems for clinical trial adjudication and process optimization
 img: assets/img/3.jpg
 importance: 2
 category: work
-giscus_comments: true
 ---
 
-## Agentic AI Systems for Healthcare Applications
+## AI Agents for Clinical Trial Adjudication and Process Optimization
 
-This project explores the development of autonomous AI agents capable of reasoning, planning, and acting in healthcare environments. The focus is on creating AI systems that can independently perform complex tasks in pharmaceutical research while maintaining safety, reliability, and interpretability.
+Developing sophisticated AI agent systems that revolutionize clinical trial management and adjudication processes. This project focuses on creating intelligent automation solutions that significantly improve the accuracy, efficiency, and reliability of clinical trial operations.
 
-### Research Goals
+### Project Scope
 
-**Autonomous Drug Discovery Agents**: Developing AI agents that can autonomously design experiments, analyze results, and propose new drug candidates by reasoning through complex chemical and biological data.
+**Primary Goal**: Build and deploy AI agents that optimize clinical trial adjudication processes, reducing manual workload while improving accuracy and efficiency in trial management.
 
-**Clinical Decision Support Agents**: Building AI systems that can assist clinicians by analyzing patient data, medical literature, and treatment guidelines to provide evidence-based recommendations.
+**Research Impact**: Creating scalable AI solutions that streamline clinical trial workflows from patient recruitment through data analysis, ensuring faster and more reliable trial execution.
 
 **Multi-Agent Pharmaceutical Research**: Creating collaborative AI systems where multiple specialized agents work together to solve complex pharmaceutical research challenges.
 

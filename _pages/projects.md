@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
-nav: true
-nav_order: 3
-display_categories: [work, fun]
+description: Research projects in Generative AI, Clinical NLP, and Healthcare AI applications.
+nav: false
+nav_order: 4
+display_categories: [work]
 horizontal: false
 ---
 

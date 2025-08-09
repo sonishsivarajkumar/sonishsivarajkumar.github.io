@@ -45,9 +45,14 @@
         - Built foundation models for healthcare applications
         - Advanced real-world evidence analytics using AI
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
+    - title: Graduate Research Assistant
+      institution: University of Pittsburgh, Pittsburgh, PA
+      year: 2021 - 2024
+      description:
+        - Conducted research in Clinical Natural Language Processing
+        - Developed AI solutions for real-world evidence analytics
+        - Published research on fairness and transparency in healthcare AI
+        - Collaborated on pharmaceutical research applications
 
 - title: Research Areas
   type: nested_list

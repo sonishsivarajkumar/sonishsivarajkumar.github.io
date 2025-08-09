@@ -1,23 +1,21 @@
 ---
 layout: page
-title: Fair AI in Healthcare
-description: Developing equitable and unbiased AI systems for diverse patient populations
+title: Clinical NLP for Real-World Evidence  
+description: PhD research in clinical natural language processing and healthcare AI fairness
 img: assets/img/7.jpg
 importance: 3
 category: work
 ---
 
-## Fairness and Equity in Healthcare AI
+## Clinical Natural Language Processing for Real-World Evidence Analytics
 
-This project addresses the critical need for fair and unbiased AI systems in healthcare, ensuring that artificial intelligence benefits all patients regardless of their demographic background, socioeconomic status, or geographic location.
+PhD research project focused on developing advanced natural language processing techniques for extracting and analyzing real-world evidence from clinical data. This work contributes to understanding AI fairness and transparency in healthcare applications while advancing clinical NLP methodologies.
 
-### Research Focus
+### Research Overview
 
-**Bias Detection and Mitigation**: Developing sophisticated methods to identify and reduce bias in healthcare AI models, particularly in clinical NLP systems and drug discovery algorithms.
+**Academic Context**: PhD dissertation research conducted at the University of Pittsburgh (2020-2024), specializing in Clinical Natural Language Processing with applications in pharmaceutical research.
 
-**Equitable Model Development**: Creating AI models that perform consistently across diverse patient populations, ensuring equal access to AI-driven healthcare benefits.
-
-**Regulatory Compliance**: Working to ensure AI systems meet emerging regulatory requirements for fairness and transparency in healthcare applications.
+**Primary Contribution**: Advancing the state-of-the-art in clinical NLP while addressing critical issues of fairness, bias, and transparency in healthcare AI systems.
 
 ### Key Contributions
 

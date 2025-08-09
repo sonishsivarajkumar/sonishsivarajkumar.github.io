@@ -22,13 +22,17 @@ I am a Research Scientist specializing in **Generative AI** at **Eli Lilly and C
 
 My current focus involves **Generative AI in antibody discovery and clinical trial statistics**, where I architect and develop end-to-end Generative AI solutions for immunology and protein chemistry, enhancing research capabilities across the organization.
 
-## Current Research & Impact
+## Research Impact & Innovation
 
-**Generative AI in Drug Discovery**: Leading the development of AI solutions for antibody discovery and protein chemistry, significantly enhancing research capabilities and accelerating discovery timelines.
+**Leading AI in Drug Discovery**: Developing cutting-edge generative AI models for therapeutic antibody discovery and protein chemistry, significantly accelerating research timelines and improving discovery outcomes.
 
-**AI Agents for Clinical Trials**: Building sophisticated AI agents to optimize clinical trial adjudication processes, improving both accuracy and efficiency in trial management.
+**Clinical AI Systems**: Building sophisticated AI agents to optimize clinical trial adjudication processes, achieving measurable improvements in both accuracy and efficiency in trial management.
 
-**Cross-functional AI Integration**: Collaborating with diverse teams to integrate cutting-edge AI technologies, achieving a **25% reduction in research timelines** through strategic AI implementation.
+**Cross-functional Innovation**: Successfully collaborating with diverse teams to integrate AI technologies, resulting in a **25% reduction in research timelines** through strategic AI implementation.
+
+## Academic Foundation
+
+I completed my **PhD in Artificial Intelligence** at the **University of Pittsburgh** (2020-2024), specializing in **Clinical Natural Language Processing** with a focus on real-world evidence analytics for pharmaceutical research. My doctoral work contributed to understanding AI fairness and transparency in healthcare applications.
 
 ## Research Philosophy
 
@@ -36,16 +40,16 @@ I am passionate about **bridging AI innovation and clinical impact**, thriving i
 
 ## Core Expertise
 
-- **Generative AI**: Advanced applications in drug discovery and molecular design
-- **Clinical AI**: AI agents and systems for clinical trial optimization
+- **Generative AI**: Advanced applications in drug discovery, antibody design, and molecular chemistry
+- **Clinical AI**: AI agents and systems for clinical trial optimization and healthcare applications  
 - **Protein Chemistry**: AI-driven approaches to immunology and protein research
-- **Healthcare AI**: End-to-end AI solutions for pharmaceutical applications
+- **Healthcare NLP**: Clinical natural language processing and real-world evidence analytics
 - **Research Translation**: Converting AI research into deployable pharmaceutical solutions
 
-## Industry Impact
+## Professional Impact
 
-My work spans the entire pharmaceutical research pipeline, from early-stage drug discovery through clinical trial optimization, consistently delivering AI solutions that accelerate research timelines and improve outcomes.
+My work spans the entire pharmaceutical research pipeline, from early-stage drug discovery through clinical trial optimization, consistently delivering AI solutions that accelerate research timelines and improve outcomes. I have **5+ years of experience** designing and delivering AI/ML systems across pharma, biotech, and academic research environments.
 
 ---
 
-*Interested in collaboration on Generative AI applications in pharmaceutical research or clinical AI systems? I'd love to connect and explore opportunities to advance AI in healthcare together.*
+*Interested in collaboration on Generative AI applications in pharmaceutical research, clinical AI systems, or healthcare NLP? I'd love to connect and explore opportunities to advance AI in healthcare together.*
