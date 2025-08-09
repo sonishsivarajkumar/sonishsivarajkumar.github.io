@@ -2,14 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='https://www.lilly.com/'>Research Scientist(Advisor) - Generative AI, Eli Lilly and Company</a>
+subtitle: <a href='https://www.lilly.com/'>Research Scientist - Generative AI, Eli Lilly and Company</a>
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Research Scientist(Advisor)</p>
+    <p>Research Scientist</p>
     <p>Generative AI</p>
     <p>Eli Lilly and Company</p>
 
@@ -18,7 +18,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I am a Research Scientist(Advisor) specializing in **Generative AI** at **Eli Lilly and Company** with over 5 years of experience designing and delivering AI/ML systems across pharmaceutical, biotech, and academic research environments.
+I am a Research Scientist specializing in **Generative AI** at **Eli Lilly and Company** with over 5 years of experience designing and delivering AI/ML systems across pharmaceutical, biotech, and academic research environments.
 
 My current focus involves **Generative AI in antibody discovery and clinical trial statistics**, where I architect and develop end-to-end Generative AI solutions for immunology and protein chemistry, enhancing research capabilities across the organization.
 

@@ -6,9 +6,9 @@ title: blank # the website title (if blank, full name will be used instead)
 first_name: Sonish
 middle_name: 
 last_name: Sivarajkumar
-email: sonish.sivarajkumar@pitt.edu
+email: sonish.sivarajkumar@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Research Scientist(Advisor) - Generative AI at Eli Lilly and Company. 
+  Research Scientist - Generative AI at Eli Lilly and Company. 
   5+ years designing AI/ML systems across pharma, biotech, and academic research. 
   Passionate about bridging AI innovation and clinical impact.
 footer_text: >
@@ -99,7 +99,7 @@ youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 zotero_username: # your zotero username
 
 contact_note: >
-  The best way to reach me is via email at sonish.sivarajkumar@pitt.edu. 
+  The best way to reach me is via email at sonish.sivarajkumar@gmail.com. 
   I'm always interested in discussing research collaborations and Generative AI applications in pharmaceutical research.
   
   Additional profiles: <a href="https://www.kaggle.com/sonish2383" target="_blank">Kaggle</a> | 

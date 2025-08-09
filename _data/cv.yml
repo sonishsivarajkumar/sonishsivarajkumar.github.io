@@ -4,7 +4,7 @@
     - name: Full Name
       value: Sonish Sivarajkumar
     - name: Email
-      value: sonish.sivarajkumar@pitt.edu
+      value: sonish.sivarajkumar@gmail.com
     - name: Location
       value: Boston, MA
     - name: Languages
@@ -27,7 +27,7 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Scientist(Advisor) - Generative AI
+    - title: Research Scientist - Generative AI
       institution: Eli Lilly and Company
       year: 2025 - Present
       description:
