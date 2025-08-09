@@ -1,16 +1,6 @@
 ---
 layout: page
 title: Generative AI for Antibody Discovery
-description: End-to-end AI solutions for immunology and protein chemistry research
-img: assets/img/12.jpg
-importance: 1
-category: work
-related_publications: true
----
-
----
-layout: page
-title: Generative AI for Antibody Discovery
 description: End-to-end AI solutions for therapeutic antibody discovery and protein chemistry
 img: assets/img/12.jpg
 importance: 1

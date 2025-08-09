@@ -24,7 +24,7 @@ My current focus involves **Generative AI in antibody discovery and clinical tri
 
 ## Research Impact & Innovation
 
-**Leading AI in Drug Discovery**: Developing cutting-edge generative AI models for therapeutic antibody discovery and protein chemistry, significantly accelerating research timelines and improving discovery outcomes.
+**Working AI in Drug Discovery**: Developing cutting-edge generative AI models for therapeutic antibody discovery and protein chemistry, significantly accelerating research timelines and improving discovery outcomes.
 
 **Clinical AI Systems**: Building sophisticated AI agents to optimize clinical trial adjudication processes, achieving measurable improvements in both accuracy and efficiency in trial management.
 

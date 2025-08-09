@@ -4,7 +4,7 @@ title: project 10
 description: A project with an introduction section
 img: assets/img/5.jpg
 importance: 5
-category: work
+category: archived
 project_intro: true
 icons:
   - file: javascript/javascript-original.svg
