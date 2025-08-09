@@ -1,23 +1,35 @@
 ---
 layout: page
-title: project 1
-description: with background image
+title: Clinical NLP for Real-World Evidence
+description: Advanced AI models for pharmaceutical research and drug discovery
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Clinical Natural Language Processing for Pharmaceutical Research
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This project focuses on developing state-of-the-art natural language processing models specifically designed for clinical texts and pharmaceutical applications. The work involves creating AI systems that can extract meaningful insights from electronic health records, clinical trial data, and medical literature to support drug discovery and development processes.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
+### Key Components
+
+**Foundation Models for Healthcare**: Developing and fine-tuning large language models specifically for clinical and pharmaceutical domains, ensuring they understand medical terminology, drug interactions, and clinical contexts.
+
+**Real-World Evidence Analytics**: Building systems that can process vast amounts of clinical data to generate evidence about drug safety, efficacy, and real-world performance outside of controlled clinical trials.
+
+**Clinical Information Extraction**: Advanced NLP techniques for automatically extracting structured information from unstructured clinical notes, lab reports, and physician observations.
+
+### Impact
+
+This research directly contributes to accelerating drug discovery timelines and improving patient outcomes by enabling more efficient analysis of clinical data. The systems developed help pharmaceutical companies make data-driven decisions about drug development, regulatory submissions, and post-market surveillance.
+
+### Technologies Used
+
+- **NLP Frameworks**: Transformers, BERT, GPT models, spaCy
+- **Machine Learning**: PyTorch, TensorFlow, scikit-learn
+- **Data Processing**: Pandas, NumPy, Apache Spark
+- **Cloud Platforms**: AWS, Azure for scalable deployment
     img: /assets/img/12.jpg
     ---
 

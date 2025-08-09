@@ -2,96 +2,82 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Sonish Sivarajkumar
+    - name: Email
+      value: sonish.sivarajkumar@pitt.edu
+    - name: Location
+      value: Boston, MA
     - name: Languages
-      value: English, German
+      value: English, Tamil
+    - name: Research Interests
+      value: Clinical NLP, Real World Evidence, Agentic AI, Biomedical Informatics
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Artificial Intelligence
+      institution: University of Pittsburgh, Pittsburgh, PA
+      year: 2020 - 2024
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+        - Specialized in Clinical Natural Language Processing
+        - Focused on Real-World Evidence analytics for pharmaceutical research
+        - Developed AI solutions for healthcare applications
+        - Research on fairness and transparency in healthcare AI systems
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Scientist
+      institution: Eli Lilly and Company
+      year: 2024 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Developing AI solutions for drug discovery and development
+        - Leading clinical NLP initiatives for pharmaceutical research
+        - Building foundation models for healthcare applications
+        - Advancing real-world evidence analytics using AI
+    - title: Research Collaborations
+      institution: UPMC, Merck, Genentech
+      year: 2020 - 2024
       description:
-        - Description 1.
-        - Description 2.
+        - Contributed to various pharmaceutical and healthcare AI projects
+        - Developed clinical information extraction systems
+        - Advanced biomedical informatics research
+        - Worked on fair AI systems for healthcare
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
       year: 1917-1933
 
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
-  type: time_table
-  contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
-
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
-      items:
-        - Max Planck Medal
-
-- title: Academic Interests
+- title: Research Areas
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Clinical Natural Language Processing
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Development of NLP models for clinical texts and medical records
+        - Information extraction from electronic health records
+        - Clinical decision support systems
+    - title: Real World Evidence Analytics
       items:
-        - Description 1.
-        - Description 2.
+        - Pharmaceutical research applications
+        - Clinical trial optimization
+        - Drug safety and efficacy analysis
+    - title: Agentic AI & Foundation Models
+      items:
+        - Large language models for healthcare
+        - Autonomous AI systems for clinical environments
+        - Multimodal AI for biomedical applications
+    - title: Fair AI in Healthcare
+      items:
+        - Bias detection and mitigation in healthcare AI
+        - Equitable AI systems across diverse populations
+        - Transparent and explainable AI for clinical use
 
-- title: Other Interests
+- title: Technical Skills
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Programming:</u> Python, R, SQL, JavaScript, C++
+    - <u>AI/ML Frameworks:</u> PyTorch, TensorFlow, Hugging Face, scikit-learn
+    - <u>NLP Tools:</u> spaCy, NLTK, Transformers, OpenAI API
+    - <u>Data:</u> Pandas, NumPy, Apache Spark, SQL databases
+    - <u>Cloud:</u> AWS, Azure, Google Cloud Platform
+    - <u>Other:</u> Docker, Git, Linux, Jupyter, MLflow

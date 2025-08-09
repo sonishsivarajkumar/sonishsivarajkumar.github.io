@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2024-08-01 09:00:00-0400
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Joined <a href="https://www.lilly.com/">Eli Lilly and Company</a> as a Research Scientist, focusing on AI applications in pharmaceutical research and drug discovery.

@@ -2,24 +2,39 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='https://www.lilly.com/'>Research Scientist, Eli Lilly and Company</a>. Clinical NLP & Agentic AI Specialist.
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Research Scientist</p>
+    <p>Eli Lilly and Company</p>
+    <p>Boston, MA</p>
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Research Scientist at **Eli Lilly and Company** with a PhD in Artificial Intelligence from the University of Pittsburgh, specializing in Clinical Natural Language Processing and Real-World Evidence analytics for pharmaceutical research.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+My research focuses on developing cutting-edge AI solutions that accelerate drug discovery and improve patient outcomes through foundation models, clinical NLP, and fair healthcare AI systems. I bridge the gap between cutting-edge AI research and practical pharmaceutical applications, with a focus on developing responsible AI systems that enhance clinical decision-making while ensuring fairness and transparency in healthcare AI.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+## Research Interests
+
+- **Clinical Natural Language Processing**: Developing NLP models specifically for clinical texts and medical records
+- **Large Language Models for Healthcare**: Adapting and fine-tuning foundation models for pharmaceutical applications  
+- **Real World Evidence (RWE)**: Extracting insights from clinical data to support drug development and regulatory decisions
+- **Agentic AI**: Building autonomous AI systems that can reason and act in healthcare environments
+- **Biomedical Informatics**: Applying computational methods to biological and medical data
+- **Fair AI in Healthcare**: Ensuring AI systems are equitable and unbiased across diverse patient populations
+
+## Industry Impact
+
+My work has contributed to research and development efforts at leading pharmaceutical and healthcare organizations including **Eli Lilly**, **UPMC**, **Merck**, and **Genentech**, focusing on advancing the intersection of artificial intelligence and pharmaceutical research.
+
+---
+
+*Interested in collaboration, research opportunities, or discussing the latest developments in AI for pharmaceutical applications? Feel free to reach out!*

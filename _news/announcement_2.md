@@ -1,12 +1,16 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: PhD Defense Success
+date: 2024-05-15 11:00:00-0400
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+I successfully defended my PhD dissertation titled "Clinical Natural Language Processing for Real-World Evidence Analytics" at the University of Pittsburgh. 
+
+My research focused on developing advanced NLP techniques for extracting insights from clinical data to support pharmaceutical research and drug development. The work contributes to the growing field of AI applications in healthcare, with particular emphasis on real-world evidence generation and clinical decision support systems.
+
+Looking forward to applying these research insights in my new role at Eli Lilly and Company!
 
 ---
 

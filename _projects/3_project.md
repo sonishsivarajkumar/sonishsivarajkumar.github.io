@@ -1,12 +1,35 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Fair AI in Healthcare
+description: Developing equitable and unbiased AI systems for diverse patient populations
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: work
 ---
+
+## Fairness and Equity in Healthcare AI
+
+This project addresses the critical need for fair and unbiased AI systems in healthcare, ensuring that artificial intelligence benefits all patients regardless of their demographic background, socioeconomic status, or geographic location.
+
+### Research Focus
+
+**Bias Detection and Mitigation**: Developing sophisticated methods to identify and reduce bias in healthcare AI models, particularly in clinical NLP systems and drug discovery algorithms.
+
+**Equitable Model Development**: Creating AI models that perform consistently across diverse patient populations, ensuring equal access to AI-driven healthcare benefits.
+
+**Regulatory Compliance**: Working to ensure AI systems meet emerging regulatory requirements for fairness and transparency in healthcare applications.
+
+### Key Contributions
+
+- **Fairness Metrics**: Developing new metrics and evaluation frameworks specifically designed for healthcare AI applications.
+
+- **Bias-Aware Training**: Implementing training methodologies that actively promote fairness while maintaining model performance.
+
+- **Interpretable AI**: Building transparent AI systems that allow healthcare professionals to understand and trust AI-driven recommendations.
+
+### Impact
+
+This research is crucial for the responsible deployment of AI in healthcare, ensuring that technological advances benefit all patients equitably and maintain public trust in AI-assisted medical care. The work directly supports regulatory compliance and ethical AI practices in pharmaceutical research.
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

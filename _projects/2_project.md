@@ -1,23 +1,36 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Agentic AI for Healthcare
+description: Autonomous AI systems for clinical decision support and pharmaceutical research
 img: assets/img/3.jpg
 importance: 2
 category: work
 giscus_comments: true
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+## Agentic AI Systems for Healthcare Applications
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+This project explores the development of autonomous AI agents capable of reasoning, planning, and acting in healthcare environments. The focus is on creating AI systems that can independently perform complex tasks in pharmaceutical research while maintaining safety, reliability, and interpretability.
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
+### Research Goals
+
+**Autonomous Drug Discovery Agents**: Developing AI agents that can autonomously design experiments, analyze results, and propose new drug candidates by reasoning through complex chemical and biological data.
+
+**Clinical Decision Support Agents**: Building AI systems that can assist clinicians by analyzing patient data, medical literature, and treatment guidelines to provide evidence-based recommendations.
+
+**Multi-Agent Pharmaceutical Research**: Creating collaborative AI systems where multiple specialized agents work together to solve complex pharmaceutical research challenges.
+
+### Key Innovations
+
+- **Reasoning Capabilities**: Implementing advanced reasoning mechanisms that allow AI agents to make logical inferences about drug interactions, patient outcomes, and treatment protocols.
+
+- **Safety and Reliability**: Ensuring that autonomous AI systems operate safely in critical healthcare environments with appropriate oversight and fail-safe mechanisms.
+
+- **Interpretability**: Developing transparent AI agents that can explain their reasoning and decision-making processes to healthcare professionals.
+
+### Applications
+
+This research has direct applications in accelerating drug discovery, improving clinical trial design, and enhancing patient care through intelligent automation of routine research tasks while augmenting human expertise.
     img: /assets/img/12.jpg
     ---
 
