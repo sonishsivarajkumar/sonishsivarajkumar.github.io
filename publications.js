@@ -23,7 +23,7 @@ const publicationsData = {
             year: 2024,
             title: "Extraction of sleep information from clinical notes of Alzheimer's disease patients using natural language processing",
             authors: "<strong>Sivarajkumar, S.</strong>, Tam, T.Y.C., Mohammad, H.A., Viggiano, S., Oniani, D., et al.",
-            venue: "Journal of the American Medical Informatics Association",
+            venue: "Journal of the American Medical Informatics Association (JAMIA)",
             details: "31(10), 2217-2227",
             doi: "#",
             pdf: "#"
@@ -50,7 +50,7 @@ const publicationsData = {
             year: 2024,
             title: "Clinical information retrieval: a literature review",
             authors: "<strong>Sivarajkumar, S.</strong>, Mohammad, H.A., Oniani, D., Roberts, K., Hersh, W., Liu, H., He, D., Visweswaran, S., Wang, Y.",
-            venue: "Journal of Healthcare Informatics Research",
+            venue: "Journal of Healthcare Informatics Research (JHIR)",
             details: "8(2), 313-352",
             doi: "#",
             pdf: "#"
@@ -90,6 +90,15 @@ const publicationsData = {
             details: "148",
             doi: "#",
             pdf: "#"
+        },        
+        {
+            year: 2023,
+            title: "Few-Shot learning for clinical natural language processing using siamese neural networks: algorithm development and validation study",
+            authors: "Oniani, D., Chandrasekar, P., <strong>Sivarajkumar, S.</strong>, Wang, Y.",
+            venue: "JMIR AI",
+            details: "2, e44293",
+            doi: "#",
+            pdf: "#"
         },
         {
             year: 2022,
@@ -104,20 +113,20 @@ const publicationsData = {
     
     conference: [
         {
-            year: 2024,
-            title: "Rag-rlrc-laysum at biolaysumm: Integrating retrieval-augmented generation and readability control for layman summarization of biomedical texts",
-            authors: "Ji, Y., Li, Z., Meng, R., <strong>Sivarajkumar, S.</strong>, Wang, Y., Yu, Z., Ji, H., Han, Y., Zeng, H., He, D.",
-            venue: "arXiv preprint",
-            details: "arXiv:2405.13179",
+            year: 2025,
+            title: "Automating Adjudication of Cardiovascular Events Using Large Language Models",
+            authors: "<strong>Sivarajkumar, S.</strong>, Ameri, K., Li, C., Wang, Y., Jiang, M.",
+            venue: "American Medical Informatics Association (AMIA) 2025",
+            details: "arXiv:2503.17222",
             doi: "#",
             pdf: "#"
         },
         {
-            year: 2023,
-            title: "Few-Shot learning for clinical natural language processing using siamese neural networks: algorithm development and validation study",
-            authors: "Oniani, D., Chandrasekar, P., <strong>Sivarajkumar, S.</strong>, Wang, Y.",
-            venue: "JMIR AI",
-            details: "2, e44293",
+            year: 2024,
+            title: "Rag-rlrc-laysum at biolaysumm: Integrating retrieval-augmented generation and readability control for layman summarization of biomedical texts",
+            authors: "Ji, Y., Li, Z., Meng, R., <strong>Sivarajkumar, S.</strong>, Wang, Y., Yu, Z., Ji, H., Han, Y., Zeng, H., He, D.",
+            venue: "Association for Computational Linguistics (ACL) 2024",
+            details: "arXiv:2405.13179",
             doi: "#",
             pdf: "#"
         },
@@ -142,15 +151,7 @@ const publicationsData = {
     ],
     
     preprints: [
-        {
-            year: 2025,
-            title: "Automating Adjudication of Cardiovascular Events Using Large Language Models",
-            authors: "<strong>Sivarajkumar, S.</strong>, Ameri, K., Li, C., Wang, Y., Jiang, M.",
-            venue: "arXiv preprint",
-            details: "arXiv:2503.17222",
-            doi: "#",
-            pdf: "#"
-        },
+
         {
             year: 2024,
             title: "Precision Rehabilitation for Patients Post-Stroke based on Electronic Health Records and Machine Learning",
