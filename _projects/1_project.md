@@ -1,35 +1,45 @@
 ---
 layout: page
-title: Clinical NLP for Real-World Evidence
-description: Advanced AI models for pharmaceutical research and drug discovery
+title: Generative AI for Antibody Discovery
+description: End-to-end AI solutions for immunology and protein chemistry research
 img: assets/img/12.jpg
 importance: 1
 category: work
 related_publications: true
 ---
 
-## Clinical Natural Language Processing for Pharmaceutical Research
+## Generative AI in Antibody Discovery and Clinical Trial Statistics
 
-This project focuses on developing state-of-the-art natural language processing models specifically designed for clinical texts and pharmaceutical applications. The work involves creating AI systems that can extract meaningful insights from electronic health records, clinical trial data, and medical literature to support drug discovery and development processes.
+This project represents my current work at Eli Lilly and Company, focusing on developing cutting-edge generative AI solutions for antibody discovery and protein chemistry research. The work involves creating comprehensive AI systems that enhance research capabilities and accelerate drug discovery timelines.
 
 ### Key Components
 
-**Foundation Models for Healthcare**: Developing and fine-tuning large language models specifically for clinical and pharmaceutical domains, ensuring they understand medical terminology, drug interactions, and clinical contexts.
+**Antibody Design & Discovery**: Developing advanced generative AI models specifically designed for antibody discovery, leveraging deep learning approaches to identify and optimize therapeutic antibodies with improved efficacy and safety profiles.
 
-**Real-World Evidence Analytics**: Building systems that can process vast amounts of clinical data to generate evidence about drug safety, efficacy, and real-world performance outside of controlled clinical trials.
+**Protein Chemistry AI**: Building AI systems for immunology and protein chemistry applications, enabling researchers to better understand protein interactions, stability, and function through computational modeling and prediction.
 
-**Clinical Information Extraction**: Advanced NLP techniques for automatically extracting structured information from unstructured clinical notes, lab reports, and physician observations.
+**Clinical Trial Statistics**: Implementing AI-driven statistical analysis tools for clinical trial data, improving the accuracy and efficiency of trial design, patient stratification, and outcome prediction.
 
-### Impact
+### AI Agents for Clinical Trial Optimization
 
-This research directly contributes to accelerating drug discovery timelines and improving patient outcomes by enabling more efficient analysis of clinical data. The systems developed help pharmaceutical companies make data-driven decisions about drug development, regulatory submissions, and post-market surveillance.
+**Automated Adjudication**: Developing sophisticated AI agents that optimize clinical trial adjudication processes, significantly improving both accuracy and efficiency in trial management and reducing manual workload.
 
-### Technologies Used
+**Process Enhancement**: Building intelligent systems that streamline clinical trial workflows, from patient recruitment to data analysis, ensuring faster and more reliable trial execution.
 
-- **NLP Frameworks**: Transformers, BERT, GPT models, spaCy
-- **Machine Learning**: PyTorch, TensorFlow, scikit-learn
-- **Data Processing**: Pandas, NumPy, Apache Spark
-- **Cloud Platforms**: AWS, Azure for scalable deployment
+### Impact & Results
+
+- **25% Reduction in Research Timelines**: Through strategic AI integration and cross-functional collaboration
+- **Enhanced Research Capabilities**: Significant improvements in discovery and development processes
+- **Cross-functional Integration**: Successfully collaborated with diverse teams to implement AI technologies across the organization
+
+### Technologies & Approaches
+
+- **Generative Models**: Advanced transformer architectures and variational autoencoders for molecular generation
+- **Protein Modeling**: Structure-based design and sequence optimization algorithms
+- **AI Agents**: Multi-agent systems for clinical trial management
+- **Cloud Deployment**: Scalable AI solutions on enterprise cloud infrastructure
+
+This work represents the cutting edge of applying generative AI to pharmaceutical research, bridging the gap between AI innovation and clinical impact.
     img: /assets/img/12.jpg
     ---
 

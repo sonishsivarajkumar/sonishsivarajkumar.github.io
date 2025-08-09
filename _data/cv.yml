@@ -10,7 +10,7 @@
     - name: Languages
       value: English, Tamil
     - name: Research Interests
-      value: Clinical NLP, Real World Evidence, Agentic AI, Biomedical Informatics
+      value: Generative AI, Clinical AI, Protein Chemistry, AI Agents, Drug Discovery
 
 - title: Education
   type: time_table
@@ -27,22 +27,23 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Scientist(Advisor) - Generative AI
+      institution: Eli Lilly and Company
+      year: 2025 - Present
+      description:
+        - Generative AI in antibody discovery and clinical trial statistics
+        - Architected and developed end-to-end Generative AI solutions for immunology and protein chemistry
+        - Building AI Agents to optimize clinical trial adjudication processes, improving accuracy and efficiency
+        - Collaborated with cross-functional teams to integrate AI technologies, leading to 25% reduction in research timelines
+        - 5+ years designing and delivering AI/ML systems across pharma, biotech, and academic research
     - title: Research Scientist
       institution: Eli Lilly and Company
-      year: 2024 - Present
+      year: 2024 - 2025
       description:
-        - Developing AI solutions for drug discovery and development
-        - Leading clinical NLP initiatives for pharmaceutical research
-        - Building foundation models for healthcare applications
-        - Advancing real-world evidence analytics using AI
-    - title: Research Collaborations
-      institution: UPMC, Merck, Genentech
-      year: 2020 - 2024
-      description:
-        - Contributed to various pharmaceutical and healthcare AI projects
-        - Developed clinical information extraction systems
-        - Advanced biomedical informatics research
-        - Worked on fair AI systems for healthcare
+        - Developed AI solutions for drug discovery and development
+        - Led clinical NLP initiatives for pharmaceutical research
+        - Built foundation models for healthcare applications
+        - Advanced real-world evidence analytics using AI
 
     - title: Director
       institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
@@ -51,26 +52,26 @@
 - title: Research Areas
   type: nested_list
   contents:
-    - title: Clinical Natural Language Processing
+    - title: Generative AI in Drug Discovery
       items:
-        - Development of NLP models for clinical texts and medical records
-        - Information extraction from electronic health records
-        - Clinical decision support systems
-    - title: Real World Evidence Analytics
+        - AI-driven antibody discovery and design
+        - Generative models for protein chemistry and immunology
+        - End-to-end AI solutions for pharmaceutical research
+    - title: AI Agents for Clinical Trials
       items:
-        - Pharmaceutical research applications
-        - Clinical trial optimization
-        - Drug safety and efficacy analysis
-    - title: Agentic AI & Foundation Models
+        - Clinical trial adjudication optimization
+        - Automated clinical data processing and analysis
+        - AI-powered trial management systems
+    - title: Healthcare AI Integration
       items:
-        - Large language models for healthcare
-        - Autonomous AI systems for clinical environments
-        - Multimodal AI for biomedical applications
-    - title: Fair AI in Healthcare
+        - Cross-functional AI technology implementation
+        - Research timeline optimization through AI
+        - Scalable AI solutions for pharmaceutical environments
+    - title: Applied Machine Learning
       items:
-        - Bias detection and mitigation in healthcare AI
-        - Equitable AI systems across diverse populations
-        - Transparent and explainable AI for clinical use
+        - Production ML systems for biotech and pharma
+        - Research translation from conception to deployment
+        - AI/ML system design and delivery
 
 - title: Technical Skills
   type: list

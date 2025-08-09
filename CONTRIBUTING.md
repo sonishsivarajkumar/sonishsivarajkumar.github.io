@@ -1,28 +1,26 @@
-# Contributing to al-folio
+# Contributing to Sonish Sivarajkumar's Portfolio
 
-Thank you for considering contributing to al-folio!
+Thank you for your interest in contributing to my portfolio website!
 
-## Pull Requests
+## Suggestions and Improvements
 
-We welcome your pull requests (PRs).
-For minor fixes (e.g., documentation improvements), feel free to submit a PR directly.
-If you would like to implement a new feature or a bug, please make sure you (or someone else) has opened an appropriate issue first; in your PR, please mention the issue it addresses.
+If you have suggestions for improvements or notice any issues with the website, please feel free to:
 
-Note that since [#2048](https://github.com/alshedivat/al-folio/pull/2048) al-folio uses the [prettier formatter](https://prettier.io/) for its code, meaning all new submitted code must conform to its standard. If you don't have `prettier` installed for your setup and the `prettier` code check fails when submitting a PR, you can check the referred failed action in our repo. In that action there will be an artifact with an HTML diff showing the needed changes.
+1. Open an issue describing the suggestion or problem
+2. Submit a pull request with proposed changes
 
-## Issues
+## Content Updates
 
-We use GitHub issues to track bugs and feature requests.
-Before submitting an issue, please make sure:
+For content-related updates (research, publications, projects), please note that these are managed by me directly. However, technical improvements and bug fixes are always welcome.
 
-1. You have read [the FAQ section](FAQ.md) of the README and your question is NOT addressed there.
-2. You have done your best to ensure that your issue is NOT a duplicate of one of [the previous issues](https://github.com/alshedivat/al-folio/issues).
-3. Your issue is either a bug (unexpected/undesirable behavior) or a feature request.
-   If it is just a question, please ask it in the [Discussions](https://github.com/alshedivat/al-folio/discussions) forum.
+## Technical Contributions
 
-When submitting an issue, please make sure to use the appropriate template.
+This portfolio is built using Jekyll and follows standard web development practices. When contributing:
+
+- Ensure code follows existing formatting conventions
+- Test changes locally before submitting
+- Provide clear descriptions of changes made
 
 ## License
 
-By contributing to al-folio, you agree that your contributions will be licensed
-under the LICENSE file in the root directory of the source tree.
+This portfolio website code is available for reference and learning purposes. Content and personal information remain the property of Sonish Sivarajkumar.
